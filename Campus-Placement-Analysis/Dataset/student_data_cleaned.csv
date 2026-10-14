@@ -1,0 +1,300 @@
+Student_ID,Gender,Degree,Specialisation,CGPA,Internships,Aptitude_Score,Communication_Score,Work_Experience,Placement_Status,Salary_LPA
+STU001,Female,BBA,Finance,7.43,1,74,53.0,No,Placed,3.64
+STU002,Male,BBA,Business Analytics,5.85,2,89,31.0,No,Not Placed,
+STU003,Male,BBA,Business Analytics,8.02,2,61,68.0,No,Placed,3.56
+STU004,Male,BBA,Human Resources,6.92,0,63,91.0,No,Placed,4.21
+STU005,Male,BBA,Marketing,6.58,0,58,90.0,No,Placed,4.43
+STU006,Male,B.Com,Marketing,8.15,0,52,62.0,No,Placed,4.36
+STU007,Male,BBA,Marketing,6.4,2,57,60.0,No,Placed,5.76
+STU008,Female,B.Com,Marketing,5.69,2,49,74.0,No,Placed,3.54
+STU009,Male,B.Com,Human Resources,5.54,0,66,55.0,No,Not Placed,
+STU010,Female,B.Tech,Human Resources,7.71,3,55,72.0,No,Placed,6.87
+STU011,Female,BBA,Marketing,5.82,0,69,78.0,No,Placed,2.3
+STU012,Female,B.Tech,Business Analytics,8.85,1,44,84.0,Yes,Placed,5.71
+STU013,Female,B.Tech,Business Analytics,5.02,2,71,67.0,No,Placed,5.7
+STU014,Male,BBA,Marketing,8.8,2,78,65.0,No,Placed,5.78
+STU015,Male,MBA,Marketing,7.31,2,38,57.0,No,Placed,6.31
+STU016,Male,MBA,Marketing,7.0,2,71,57.0,No,Placed,6.43
+STU017,Female,BBA,Finance,6.56,1,83,65.0,No,Placed,2.38
+STU018,Female,BBA,Finance,7.5,2,49,73.0,Yes,Placed,4.12
+STU019,Male,B.Tech,Finance,7.06,0,89,80.0,No,Placed,6.11
+STU020,Female,B.Tech,Finance,8.2,2,72,58.0,Yes,Placed,6.7
+STU021,Male,BBA,Human Resources,7.21,1,56,87.0,Yes,Placed,4.62
+STU022,Male,BBA,Marketing,7.25,2,65,64.0,Yes,Placed,4.44
+STU023,Male,B.Com,Finance,6.74,1,74,68.0,Yes,Placed,3.67
+STU024,Female,B.Com,Finance,7.04,2,67,58.0,No,Placed,3.35
+STU025,Male,B.Tech,Finance,7.41,1,74,36.0,No,Placed,6.29
+STU026,Male,B.Com,Business Analytics,5.39,2,53,79.0,No,Placed,3.86
+STU027,Male,B.Com,Marketing,5.75,0,68,78.0,No,Placed,3.55
+STU028,Male,B.Tech,Finance,7.84,0,46,64.0,No,Placed,4.97
+STU029,Female,BBA,Human Resources,7.27,0,64,69.0,No,Placed,1.8
+STU030,Female,BBA,Marketing,,0,53,75.0,No,Placed,4.87
+STU031,Female,B.Tech,Human Resources,7.12,2,56,48.0,No,Placed,5.26
+STU032,Male,MBA,Marketing,7.45,0,83,61.0,No,Placed,5.29
+STU033,Female,B.Com,Marketing,6.56,3,81,78.0,No,Placed,4.79
+STU034,Female,B.Com,Business Analytics,6.32,1,75,52.0,No,Placed,3.12
+STU035,Female,BBA,Business Analytics,7.3,0,51,72.0,Yes,Not Placed,
+STU036,Female,B.Com,Business Analytics,6.12,2,62,50.0,No,Placed,4.75
+STU037,Male,B.Com,Finance,7.51,2,83,74.0,No,Placed,4.8
+STU038,Male,BBA,Marketing,5.4,1,68,68.0,No,Placed,4.17
+STU039,Male,BBA,Human Resources,8.13,1,98,47.0,No,Placed,3.08
+STU040,Female,B.Com,Finance,7.57,2,72,83.0,No,Placed,5.41
+STU041,Male,BBA,Marketing,7.36,0,69,58.0,No,Placed,4.19
+STU042,Male,BBA,Finance,8.08,3,62,57.0,No,Not Placed,
+STU043,Female,BBA,Marketing,8.77,3,68,71.0,No,Placed,4.8
+STU044,Female,BBA,Business Analytics,8.11,2,64,83.0,No,Placed,4.83
+STU045,Female,BBA,Marketing,5.26,0,76,,No,Not Placed,
+STU046,Male,MBA,Human Resources,5.82,2,79,69.0,No,Placed,4.31
+STU047,Male,B.Tech,Finance,6.48,0,55,74.0,No,Placed,5.43
+STU048,Female,B.Tech,Finance,7.13,0,47,77.0,No,Placed,4.22
+STU049,Female,B.Tech,Human Resources,7.62,1,40,70.0,Yes,Placed,4.31
+STU050,Male,B.Com,Marketing,6.37,1,73,63.0,No,Placed,2.01
+STU051,Male,BBA,Business Analytics,7.29,2,51,57.0,No,Placed,5.51
+STU052,Male,B.Com,Business Analytics,6.34,2,36,69.0,No,Placed,3.14
+STU053,Male,B.Tech,Business Analytics,6.49,2,71,54.0,No,Placed,7.06
+STU054,Female,B.Tech,Business Analytics,5.69,1,100,30.0,No,Placed,4.46
+STU055,Female,B.Com,Human Resources,6.18,1,66,74.0,No,Placed,1.8
+STU056,Male,BBA,Business Analytics,5.75,1,78,80.0,Yes,Placed,2.5
+STU057,Female,BBA,Marketing,6.12,3,67,37.0,No,Placed,5.48
+STU058,Male,B.Com,Marketing,8.15,0,65,55.0,No,Not Placed,
+STU059,Male,B.Tech,Marketing,6.15,2,79,76.0,No,Placed,5.25
+STU060,Male,B.Tech,Finance,9.73,1,62,95.0,No,Placed,5.86
+STU061,Female,B.Com,Finance,7.59,1,70,68.0,No,Placed,4.12
+STU062,Male,MBA,Marketing,7.28,2,71,59.0,No,Placed,7.1
+STU063,Male,B.Tech,Business Analytics,6.24,1,57,66.0,No,Placed,6.3
+STU064,Male,BBA,Finance,7.8,2,80,86.0,No,Placed,6.03
+STU065,Male,BBA,Finance,6.52,3,64,60.0,No,Placed,4.02
+STU066,Female,BBA,Human Resources,7.22,1,55,58.0,Yes,Placed,2.8
+STU067,Male,BBA,Marketing,9.66,1,74,62.0,No,Placed,4.57
+STU068,Male,BBA,Business Analytics,7.0,1,53,56.0,Yes,Placed,4.31
+STU069,Female,BBA,Marketing,8.25,3,66,70.0,No,Placed,4.02
+STU070,Female,BBA,Business Analytics,6.4,0,66,89.0,Yes,Placed,2.63
+STU071,Female,BBA,Business Analytics,7.07,1,81,72.0,No,Placed,4.42
+STU072,Female,MBA,Marketing,8.87,2,73,65.0,Yes,Placed,7.11
+STU073,Female,BBA,Marketing,6.47,2,66,64.0,Yes,Placed,4.15
+STU074,Male,B.Com,Business Analytics,8.91,0,77,48.0,No,Not Placed,
+STU075,Female,B.Com,Human Resources,7.81,2,85,79.0,Yes,Placed,3.53
+STU076,Female,MBA,Business Analytics,6.54,3,74,67.0,No,Placed,6.36
+STU077,Male,BBA,Business Analytics,7.73,0,66,66.0,No,Not Placed,
+STU078,Female,B.Com,Marketing,8.07,0,48,100.0,No,Placed,2.95
+STU079,Male,MBA,Finance,7.72,3,51,72.0,No,Placed,7.89
+STU080,Female,MBA,Marketing,5.53,0,62,58.0,No,Placed,6.52
+STU081,Female,B.Tech,Business Analytics,6.37,2,57,62.0,No,Placed,3.63
+STU082,Male,BBA,Human Resources,6.85,1,63,83.0,No,Placed,3.07
+STU083,Male,BBA,Finance,7.03,0,67,69.0,Yes,Placed,2.31
+STU084,Male,B.Tech,Marketing,7.72,2,73,49.0,Yes,Placed,5.3
+STU085,Male,MBA,Finance,7.28,1,65,80.0,No,Placed,6.26
+STU086,Male,B.Com,Finance,5.76,1,73,59.0,No,Placed,1.87
+STU087,Female,B.Tech,Business Analytics,7.48,1,67,92.0,No,Placed,4.7
+STU088,Female,BBA,Human Resources,7.71,1,38,82.0,No,Placed,3.29
+STU089,Male,B.Tech,Business Analytics,7.66,0,53,62.0,No,Placed,5.64
+STU090,Male,BBA,Finance,8.18,1,64,85.0,No,Placed,4.53
+STU091,Male,BBA,Marketing,7.93,3,49,69.0,No,Placed,4.15
+STU092,Female,B.Com,Business Analytics,7.56,1,74,79.0,Yes,Placed,4.12
+STU094,Male,BBA,Human Resources,5.44,1,83,57.0,No,Placed,3.23
+STU095,Female,BBA,Business Analytics,7.53,2,63,60.0,No,Placed,6.16
+STU096,Male,B.Tech,Finance,7.31,0,87,81.0,No,Placed,6.65
+STU097,Male,BBA,Finance,7.37,3,68,64.0,No,Placed,3.38
+STU098,Female,B.Tech,Finance,5.82,1,61,63.0,No,Not Placed,
+STU099,Male,BBA,Marketing,6.02,0,57,56.0,No,Placed,4.29
+STU100,Male,B.Com,Marketing,8.15,0,62,74.0,No,Placed,4.71
+STU101,Female,B.Com,Marketing,7.06,0,61,95.0,Yes,Placed,2.37
+STU102,Male,BBA,Human Resources,7.78,1,68,54.0,Yes,Placed,5.14
+STU103,Male,BBA,Finance,7.13,1,68,68.0,No,Placed,5.63
+STU104,Male,BBA,Finance,7.13,2,66,86.0,No,Placed,3.22
+STU105,Female,BBA,Business Analytics,8.04,1,72,67.0,No,Placed,3.5
+STU106,Male,MBA,Marketing,6.58,0,83,74.0,No,Not Placed,
+STU107,Female,BBA,Finance,7.2,1,79,54.0,No,Placed,5.14
+STU108,Female,B.Tech,Business Analytics,6.64,2,45,74.0,No,Placed,5.85
+STU109,Male,BBA,Marketing,6.67,0,30,66.0,No,Placed,4.24
+STU110,Female,B.Tech,Marketing,6.79,0,79,81.0,No,Placed,5.47
+STU111,Female,B.Tech,Finance,7.32,0,47,83.0,No,Placed,5.7
+STU112,Male,B.Tech,Marketing,6.62,2,63,100.0,Yes,Placed,4.24
+STU113,Male,B.Com,Business Analytics,8.36,2,50,76.0,Yes,Placed,5.52
+STU114,Male,B.Com,Business Analytics,6.21,1,41,72.0,No,Placed,4.64
+STU115,Male,B.Com,Human Resources,6.91,2,74,71.0,No,Placed,3.74
+STU116,Male,MBA,Business Analytics,6.66,2,77,63.0,Yes,Placed,6.34
+STU117,Female,B.Tech,Business Analytics,8.55,1,58,72.0,No,Placed,4.46
+STU118,Female,MBA,Marketing,7.3,2,30,64.0,Yes,Placed,7.12
+STU119,Male,BBA,Business Analytics,8.13,0,58,70.0,No,Placed,4.77
+STU120,Male,B.Tech,Human Resources,5.61,0,71,85.0,Yes,Placed,4.65
+STU121,Male,MBA,Business Analytics,7.37,1,45,55.0,No,Placed,7.5
+STU122,Male,BBA,Business Analytics,7.99,0,69,83.0,Yes,Placed,3.81
+STU123,Female,BBA,Finance,7.18,1,66,85.0,Yes,Not Placed,
+STU124,Male,B.Tech,Marketing,8.17,3,74,66.0,No,Placed,6.92
+STU125,Female,B.Tech,Marketing,6.58,0,68,40.0,No,Not Placed,
+STU126,Male,B.Tech,Finance,8.51,0,52,60.0,Yes,Placed,4.71
+STU127,Male,BBA,Business Analytics,9.4,1,83,85.0,No,Placed,4.87
+STU128,Male,B.Tech,Business Analytics,6.74,3,64,68.0,Yes,Placed,5.68
+STU129,Female,BBA,Marketing,6.65,1,66,55.0,No,Not Placed,
+STU130,Female,BBA,Finance,8.55,1,53,61.0,No,Not Placed,
+STU131,Female,BBA,Finance,8.68,0,60,79.0,No,Placed,4.61
+STU132,Male,B.Tech,Marketing,6.58,0,54,75.0,No,Not Placed,
+STU133,Male,B.Tech,Marketing,6.68,3,64,65.0,Yes,Placed,5.47
+STU134,Female,B.Com,Finance,6.82,3,90,63.0,No,Placed,4.06
+STU135,Female,B.Com,Business Analytics,5.76,0,47,63.0,No,Placed,3.89
+STU136,Male,MBA,Finance,6.18,3,43,56.0,No,Placed,6.03
+STU137,Female,B.Com,Finance,6.1,2,87,89.0,No,Placed,2.08
+STU138,Male,B.Tech,Human Resources,6.33,2,63,64.0,Yes,Placed,7.22
+STU139,Male,B.Com,Finance,7.07,1,57,84.0,Yes,Not Placed,
+STU140,Female,B.Com,Business Analytics,7.33,1,81,88.0,No,Placed,5.25
+STU141,Female,B.Com,Business Analytics,8.65,1,58,81.0,Yes,Placed,3.04
+STU142,Male,BBA,Marketing,6.1,2,92,62.0,Yes,Placed,4.67
+STU143,Female,B.Tech,Finance,8.08,0,75,73.0,No,Placed,5.08
+STU144,Female,B.Com,Finance,6.89,0,59,68.0,Yes,Not Placed,
+STU145,Male,BBA,Finance,7.05,1,96,56.0,No,Placed,4.33
+STU146,Male,MBA,Marketing,7.77,2,58,72.0,No,Not Placed,
+STU147,Male,B.Com,Human Resources,5.98,0,76,53.0,Yes,Placed,3.44
+STU148,Male,B.Com,Finance,7.48,2,70,83.0,No,Placed,3.93
+STU149,Female,MBA,Marketing,7.27,3,84,62.0,Yes,Placed,6.06
+STU150,Female,B.Tech,Marketing,7.59,0,88,71.0,Yes,Placed,4.72
+STU151,Male,BBA,Business Analytics,7.39,2,66,72.0,No,Placed,3.52
+STU152,Male,MBA,Marketing,9.56,1,55,65.0,Yes,Placed,6.31
+STU153,Female,B.Tech,Marketing,6.46,2,72,76.0,No,Placed,5.44
+STU154,Male,BBA,Finance,6.57,0,57,62.0,No,Placed,2.93
+STU155,Female,BBA,Business Analytics,6.48,2,94,79.0,No,Placed,4.8
+STU156,Male,B.Tech,Marketing,6.54,2,68,51.0,Yes,Placed,7.03
+STU157,Female,B.Tech,Human Resources,6.46,3,61,70.0,No,Placed,5.18
+STU158,Male,B.Com,Business Analytics,8.29,2,69,93.0,No,Placed,4.69
+STU159,Female,MBA,Marketing,8.52,1,47,55.0,No,Placed,7.28
+STU160,Female,B.Tech,Business Analytics,6.53,1,52,59.0,No,Placed,5.76
+STU161,Female,BBA,Finance,6.27,2,83,75.0,No,Placed,4.12
+STU162,Male,BBA,Human Resources,7.57,1,57,70.0,No,Placed,4.99
+STU163,Male,BBA,Human Resources,6.55,0,51,73.0,No,Placed,4.12
+STU164,Male,B.Tech,Human Resources,7.73,3,74,74.0,No,Placed,4.97
+STU165,Male,BBA,Marketing,7.3,2,83,76.0,Yes,Placed,5.27
+STU166,Female,B.Tech,Business Analytics,5.58,2,76,82.0,No,Placed,6.09
+STU167,Female,B.Tech,Finance,8.65,0,80,73.0,No,Placed,5.01
+STU168,Male,MBA,Marketing,8.9,2,55,65.0,Yes,Placed,7.2
+STU169,Female,B.Com,Marketing,6.49,1,46,77.0,No,Placed,4.25
+STU170,Male,B.Tech,Human Resources,6.71,2,87,93.0,Yes,Placed,5.39
+STU171,Female,BBA,Human Resources,7.39,0,61,66.0,No,Placed,5.01
+STU172,Male,B.Tech,Marketing,7.43,2,62,55.0,Yes,Placed,8.21
+STU173,Female,BBA,Finance,7.76,3,85,82.0,No,Placed,4.03
+STU174,Male,B.Com,Marketing,9.11,0,74,66.0,No,Placed,2.86
+STU175,Male,B.Tech,Human Resources,6.92,3,72,40.0,No,Placed,6.23
+STU176,Male,BBA,Marketing,6.3,1,96,79.0,Yes,Placed,4.53
+STU177,Female,BBA,Human Resources,5.72,2,57,61.0,No,Not Placed,
+STU178,Male,B.Tech,Finance,6.37,2,79,67.0,No,Placed,5.25
+STU179,Male,B.Tech,Business Analytics,7.07,1,67,72.0,No,Placed,6.93
+STU180,Male,B.Tech,Marketing,8.89,2,70,70.0,Yes,Placed,5.02
+STU181,Male,B.Tech,Finance,6.58,2,87,77.0,No,Placed,6.25
+STU182,Male,B.Com,Marketing,7.32,1,73,62.0,Yes,Placed,3.26
+STU183,Male,BBA,Business Analytics,7.08,1,74,75.0,Yes,Placed,5.8
+STU184,Male,B.Com,Business Analytics,8.29,2,81,65.0,No,Placed,6.44
+STU185,Male,BBA,Marketing,9.63,2,61,78.0,No,Placed,4.45
+STU186,Male,MBA,Human Resources,6.57,2,54,76.0,No,Placed,5.8
+STU187,Female,B.Tech,Business Analytics,6.61,2,51,56.0,No,Placed,6.42
+STU188,Female,B.Com,Human Resources,8.14,1,38,82.0,No,Placed,3.76
+STU189,Male,B.Com,Finance,7.78,2,95,61.0,No,Placed,4.23
+STU190,Male,MBA,Marketing,8.95,0,51,79.0,No,Placed,6.71
+STU191,Male,BBA,Marketing,7.68,1,63,73.0,No,Placed,2.37
+STU192,Male,B.Tech,Business Analytics,6.74,0,62,92.0,No,Placed,5.1
+STU193,Female,B.Com,Business Analytics,7.69,1,70,65.0,Yes,Placed,3.3
+STU194,Female,B.Tech,Human Resources,8.21,1,77,63.0,Yes,Placed,5.38
+STU195,Male,BBA,Finance,7.92,1,78,68.0,No,Placed,5.82
+STU196,Female,MBA,Finance,7.61,2,58,64.0,Yes,Placed,5.46
+STU197,Male,MBA,Business Analytics,8.17,1,64,78.0,No,Placed,7.47
+STU198,Female,B.Tech,Business Analytics,8.27,1,70,47.0,No,Placed,5.62
+STU199,Male,B.Tech,Business Analytics,8.48,0,63,54.0,No,Placed,5.44
+STU200,Male,MBA,Business Analytics,7.75,1,89,54.0,No,Placed,7.3
+STU201,Male,B.Tech,Human Resources,6.93,0,73,80.0,Yes,Placed,5.52
+STU202,Male,BBA,Marketing,7.25,0,76,90.0,No,Placed,4.46
+STU203,Female,B.Tech,Marketing,8.31,1,75,67.0,No,Placed,6.88
+STU204,Male,B.Tech,Business Analytics,6.28,2,82,66.0,No,Placed,5.12
+STU205,Male,B.Com,Human Resources,7.47,1,69,69.0,No,Placed,3.3
+STU206,Female,B.Tech,Marketing,6.71,1,48,83.0,No,Placed,4.26
+STU207,Male,MBA,Marketing,7.13,1,72,56.0,No,Placed,5.47
+STU208,Male,MBA,Human Resources,8.38,2,57,71.0,No,Placed,9.93
+STU209,Male,B.Com,Marketing,7.29,1,59,81.0,Yes,Placed,5.1
+STU210,Male,BBA,Marketing,7.15,1,74,75.0,Yes,Placed,2.75
+STU211,Male,MBA,Human Resources,5.74,0,83,70.0,No,Not Placed,
+STU212,Female,B.Tech,Human Resources,7.85,1,66,81.0,Yes,Placed,4.43
+STU213,Male,BBA,Human Resources,7.75,1,70,33.0,No,Placed,4.79
+STU214,Male,MBA,Marketing,9.26,1,90,77.0,No,Placed,7.59
+STU215,Female,MBA,Business Analytics,6.79,1,69,59.0,No,Placed,6.73
+STU216,Female,B.Com,Marketing,7.32,1,100,44.0,No,Placed,3.61
+STU217,Female,B.Tech,Finance,7.35,1,74,75.0,Yes,Placed,5.45
+STU218,Male,B.Com,Business Analytics,8.68,2,41,86.0,No,Placed,4.92
+STU219,Male,BBA,Human Resources,7.0,2,77,66.0,No,Placed,4.39
+STU220,Female,BBA,Business Analytics,7.38,2,71,80.0,No,Placed,2.21
+STU221,Male,B.Tech,Human Resources,7.71,3,84,89.0,No,Placed,5.97
+STU222,Female,BBA,Human Resources,7.29,0,75,85.0,Yes,Placed,3.05
+STU223,Male,BBA,Marketing,6.65,0,64,89.0,No,Placed,3.85
+STU224,Male,B.Com,Finance,7.29,0,49,78.0,No,Placed,6.59
+STU225,Male,B.Com,Marketing,8.17,2,63,69.0,No,Placed,4.78
+STU226,Male,MBA,Marketing,6.07,2,54,47.0,No,Not Placed,
+STU227,Female,B.Com,Business Analytics,7.23,0,58,65.0,No,Placed,3.27
+STU228,Female,B.Com,Finance,6.4,3,74,57.0,No,Placed,4.96
+STU229,Female,B.Tech,Business Analytics,8.3,0,89,96.0,No,Placed,6.14
+STU230,Male,B.Com,Human Resources,5.58,3,72,66.0,No,Placed,4.17
+STU231,Male,BBA,Business Analytics,6.54,1,49,70.0,Yes,Placed,4.5
+STU232,Male,B.Com,Finance,7.48,0,72,75.0,Yes,Placed,5.72
+STU233,Male,BBA,Human Resources,8.67,1,83,69.0,No,Placed,3.5
+STU234,Male,BBA,Finance,7.03,1,57,90.0,No,Placed,4.53
+STU235,Male,B.Com,Marketing,6.54,1,64,60.0,No,Placed,2.66
+STU236,Male,B.Com,Business Analytics,8.98,1,66,71.0,Yes,Placed,5.0
+STU237,Male,MBA,Finance,5.65,2,55,58.0,No,Placed,5.11
+STU238,Female,B.Com,Marketing,4.9,1,75,51.0,No,Placed,2.6
+STU239,Male,B.Tech,Human Resources,7.54,1,64,60.0,No,Placed,5.34
+STU240,Female,B.Tech,Marketing,6.6,1,72,68.0,No,Placed,6.29
+STU241,Male,BBA,Business Analytics,6.08,2,54,62.0,No,Placed,4.9
+STU242,Male,B.Tech,Business Analytics,7.81,1,60,59.0,No,Placed,4.49
+STU243,Female,BBA,Business Analytics,7.34,1,76,50.0,No,Placed,4.22
+STU244,Male,MBA,Finance,6.54,0,61,67.0,No,Placed,5.13
+STU245,Male,BBA,Marketing,5.82,0,90,48.0,No,Placed,2.13
+STU246,Female,B.Com,Business Analytics,7.97,2,60,78.0,No,Placed,4.12
+STU247,Female,BBA,Finance,7.75,0,69,69.0,No,Not Placed,
+STU248,Male,MBA,Business Analytics,7.0,1,79,49.0,No,Placed,5.94
+STU249,Male,B.Com,Business Analytics,8.95,2,46,64.0,No,Placed,7.11
+STU250,Male,B.Tech,Business Analytics,6.03,0,41,58.0,No,Placed,5.29
+STU251,Male,BBA,Finance,5.57,1,45,72.0,Yes,Placed,2.17
+STU252,Male,B.Tech,Finance,6.41,1,84,85.0,No,Placed,4.68
+STU253,Male,BBA,Business Analytics,7.05,3,58,44.0,No,Placed,5.59
+STU254,Male,MBA,Finance,7.34,1,100,69.0,No,Placed,8.46
+STU255,Male,BBA,Marketing,6.86,2,58,66.0,No,Placed,2.67
+STU256,Female,BBA,Human Resources,7.45,1,69,77.0,No,Placed,2.33
+STU257,Female,BBA,Business Analytics,5.85,0,88,71.0,No,Placed,5.27
+STU258,Female,B.Com,Human Resources,8.54,2,94,58.0,No,Placed,4.93
+STU259,Male,B.Tech,Human Resources,7.02,3,95,64.0,Yes,Placed,5.09
+STU260,Male,BBA,Marketing,8.22,1,83,58.0,No,Placed,5.01
+STU261,Male,B.Tech,Human Resources,7.44,2,80,82.0,Yes,Placed,3.22
+STU262,Female,B.Com,Business Analytics,7.56,2,74,68.0,Yes,Placed,4.2
+STU263,Female,B.Com,Marketing,7.67,0,77,93.0,No,Placed,4.06
+STU264,Female,B.Com,Finance,7.55,0,58,67.0,Yes,Placed,4.62
+STU265,Female,B.Com,Business Analytics,7.74,1,55,59.0,No,Placed,3.0
+STU266,Male,B.Com,Business Analytics,8.43,1,66,48.0,Yes,Placed,4.34
+STU267,Female,BBA,Human Resources,7.3,2,64,45.0,No,Placed,3.48
+STU268,Female,BBA,Human Resources,7.81,3,60,47.0,No,Not Placed,
+STU269,Male,MBA,Finance,7.01,1,76,71.0,No,Placed,6.51
+STU270,Female,MBA,Finance,8.54,0,79,75.0,No,Placed,5.64
+STU271,Male,B.Com,Business Analytics,6.42,2,67,47.0,No,Placed,3.39
+STU272,Male,BBA,Business Analytics,8.9,1,87,80.0,No,Placed,3.72
+STU273,Female,B.Tech,Business Analytics,7.06,2,50,62.0,No,Placed,6.37
+STU274,Male,B.Com,Business Analytics,5.67,1,63,70.0,No,Placed,4.14
+STU275,Male,BBA,Finance,7.23,2,56,89.0,No,Placed,4.15
+STU276,Male,BBA,Finance,6.42,0,40,80.0,No,Placed,3.64
+STU277,Female,B.Tech,Business Analytics,7.94,1,65,65.0,Yes,Placed,4.33
+STU278,Male,B.Tech,Human Resources,6.45,1,64,56.0,Yes,Placed,4.96
+STU279,Male,BBA,Human Resources,6.65,1,87,40.0,Yes,Not Placed,
+STU280,Female,BBA,Business Analytics,5.21,0,75,59.0,No,Placed,3.12
+STU281,Male,BBA,Business Analytics,6.65,2,52,65.0,No,Placed,6.8
+STU282,Male,B.Tech,Finance,4.68,2,92,55.0,No,Placed,3.78
+STU283,Male,BBA,Finance,5.52,0,83,66.0,Yes,Placed,4.75
+STU284,Female,BBA,Marketing,7.86,0,74,69.0,No,Placed,5.1
+STU285,Male,B.Tech,Human Resources,7.89,0,63,65.0,No,Placed,5.79
+STU286,Female,BBA,Marketing,7.53,2,53,60.0,No,Placed,6.24
+STU287,Female,B.Tech,Finance,6.13,1,61,70.0,Yes,Placed,5.52
+STU288,Female,BBA,Human Resources,7.05,1,81,74.0,No,Placed,4.46
+STU289,Female,BBA,Finance,7.1,0,92,54.0,No,Placed,3.78
+STU290,Female,BBA,Human Resources,5.94,1,88,86.0,No,Placed,4.9
+STU291,Female,B.Tech,Marketing,8.6,1,59,67.0,No,Placed,7.11
+STU292,Male,B.Tech,Marketing,7.98,1,50,68.0,No,Placed,5.17
+STU293,Female,B.Tech,Business Analytics,6.88,3,68,77.0,No,Placed,4.59
+STU294,Female,B.Com,Finance,7.13,0,41,71.0,No,Placed,3.34
+STU295,Male,B.Tech,Marketing,7.31,2,71,80.0,Yes,Placed,5.01
+STU296,Male,BBA,Finance,5.06,1,64,72.0,No,Placed,3.31
+STU297,Male,BBA,Business Analytics,6.85,1,59,60.0,Yes,Placed,5.23
+STU298,Female,MBA,Marketing,6.42,2,44,73.0,Yes,Placed,5.84
+STU299,Female,BBA,Human Resources,6.1,2,73,53.0,No,Placed,3.94
+STU300,Female,BBA,Marketing,6.82,3,59,69.0,No,Placed,4.55

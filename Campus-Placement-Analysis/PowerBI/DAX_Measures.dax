@@ -1,0 +1,36 @@
+-- Create these measures in the Student_Data table in Power BI.
+-- Ensure the cleaned query/table is named Student_Data.
+
+Total Students =
+DISTINCTCOUNT(Student_Data[Student_ID])
+
+Placed Students =
+CALCULATE(
+    DISTINCTCOUNT(Student_Data[Student_ID]),
+    Student_Data[Placement_Status] = "Placed"
+)
+
+Not Placed Students =
+CALCULATE(
+    DISTINCTCOUNT(Student_Data[Student_ID]),
+    Student_Data[Placement_Status] = "Not Placed"
+)
+
+Placement Rate =
+DIVIDE([Placed Students], [Total Students], 0)
+-- Format this measure as Percentage.
+
+Average Salary (LPA) =
+CALCULATE(
+    AVERAGE(Student_Data[Salary_LPA]),
+    Student_Data[Placement_Status] = "Placed"
+)
+
+Average CGPA =
+AVERAGE(Student_Data[CGPA])
+
+Average Aptitude Score =
+AVERAGE(Student_Data[Aptitude_Score])
+
+Average Communication Score =
+AVERAGE(Student_Data[Communication_Score])
